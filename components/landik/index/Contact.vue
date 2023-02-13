@@ -1,5 +1,5 @@
 <template>
-      <section class="py-20 bg-[url('assets/images/contact.jpg')] relative bg-cover">
+      <section class="py-20 bg-[url('/assets/images/contact.jpg')] relative bg-cover">
         <div class="absolute inset-0 w-full h-full bg-dark/50"></div>
         <div class="container">
             <div class="grid grid-cols-1">
