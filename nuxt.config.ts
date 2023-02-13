@@ -1,7 +1,7 @@
 export default defineNuxtConfig({
   ssr: false,
   srcDir: "./",
-  css: ["@/assets/css/main.css"],
+  css: ["@/assets/css/main.css", "@/assets/css/style.css"],
 
   experimental: { payloadExtraction: false },
 
